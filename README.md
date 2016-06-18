@@ -1,2 +1,2 @@
-# Course Project 1 For Exploratory Data Analysis
+# Exploratory Data Analysis: Course Project 1
 To the age of exploration!
